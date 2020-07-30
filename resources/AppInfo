@@ -1,0 +1,5 @@
+APP_TITLE = GameYob3DS_bottom
+APP_DESCRIPTION = GB/GBC emulator (bottom screen only)
+APP_AUTHOR = Drenn, Steveice10
+APP_PRODUCT_CODE = CTR-P-GYOB
+APP_UNIQUE_ID = 0x1927
